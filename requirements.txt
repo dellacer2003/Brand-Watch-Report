@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+selenium==4.22.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+pandas==1.5.3
+numpy==1.23.5
+plotly==5.14.1
+advertools==0.14.3
+streamlit==1.36.0
