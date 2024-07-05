@@ -51,19 +51,22 @@ To replicate or further develop this project, follow these steps:
 
 1. Clone the repository:
 
-bash
-Sao chép mã
+```
 git clone https://github.com/your-username/brand-watch-report.git
 cd brand-watch-report
+```
 
-2. Set up your environment:
+1. Set up your environment:
 
 - Ensure Python and necessary libraries are installed.
+
+```
 pip install -r requirements.txt
+```
 
 - Consider using a virtual environment to manage dependencies.
 
-3. Explore the analysis:
+1. Explore the analysis:
 
 - Open and run analysis.ipynb in Jupyter Notebook.
 
