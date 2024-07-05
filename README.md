@@ -18,23 +18,23 @@ To conduct a comprehensive social media audit on the following brands:
 
 ## Research Scope
 
-1. Data Collection:
+1. **Data Collection:**
 
 - Gather data from social media channel (Facebook).
 
 - Collect metrics such as page followers, number of interactions, comments, shares.
 
-2. Content Analysis:
+2. **Content Analysis:**
 
 - Categorize content angles, pillars, or messages used by each brand.
 
 - Analyze content performance based on engagement metrics.
 
-3. Strengths and Weaknesses:
+3. **Strengths and Weaknesses:**
 
 - Provide an evaluation of the strengths and weaknesses of each brand's social media presence.
 
-4. Key Learnings:
+4. **Key Learnings:**
 
 - Summarize observations and derive actionable insights for the client to enhance their own content strategies.
 
@@ -49,14 +49,14 @@ To conduct a comprehensive social media audit on the following brands:
 ## Getting Started
 To replicate or further develop this project, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/brand-watch-report.git
 cd brand-watch-report
 ```
 
-1. Set up your environment:
+2. **Set up your environment:**
 
 - Ensure Python and necessary libraries are installed.
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 - Consider using a virtual environment to manage dependencies.
 
-1. Explore the analysis:
+3. **Explore the analysis:**
 
 - Open and run analysis.ipynb in Jupyter Notebook.
 
