@@ -51,7 +51,7 @@ To replicate or further develop this project, follow these steps:
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/your-username/brand-watch-report.git
 cd brand-watch-report
 ```
@@ -60,7 +60,7 @@ cd brand-watch-report
 
 - Ensure Python and necessary libraries are installed.
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
