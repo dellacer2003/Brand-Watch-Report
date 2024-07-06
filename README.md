@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the project submission for the Entrance Test assignment focusing on conducting a Brand Watch report for three brands in the F&B industry: Coke, Pepsi, and Fanta. The goal of this project is to analyze their social media presence, content strategies, and performance metrics over the timeframe from February to April.
+This repository contains the project submission for the Ogilvy Entrance Test focusing on conducting a Brand Watch report for three brands in the F&B industry: Coke, Pepsi, and Fanta. The goal of this project is to analyze their social media presence, content strategies, and performance metrics over the timeframe from February to April.
 
 ## Assignment Details
 
