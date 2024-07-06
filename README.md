@@ -10,11 +10,11 @@ This repository contains the project submission for the Entrance Test assignment
 
 To conduct a comprehensive social media audit on the following brands:
 
-- [Coca-Cola](https://www.facebook.com/TCCCVN)
+- [Coca-Cola Viet Nam](https://www.facebook.com/TCCCVN)
 
-- [Pepsi](https://www.facebook.com/Pepsivietnam)
+- [Pepsi Viet Nam](https://www.facebook.com/Pepsivietnam)
 
-- [Fanta](https://www.facebook.com/fantavietnam)
+- [Fanta Viet Nam](https://www.facebook.com/fantavietnam)
 
 ## Research Scope
 
