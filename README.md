@@ -103,3 +103,6 @@ pip install -r requirements.txt
 For inquiries regarding this project or further collaboration opportunities, please contact:
 
 - Nguyen Dang Khoa, Email: khoadangnguyen1810@gmail.com
+
+## Warning
+Due to Facebook's policy on limiting data scraping, its HTML structure frequently changes, causing our crawling script to become outdated over time.
