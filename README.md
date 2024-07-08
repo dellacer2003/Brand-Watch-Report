@@ -10,11 +10,11 @@ This repository contains the project submission for the Ogilvy Entrance Test foc
 
 To conduct a comprehensive social media audit on the following brands:
 
-- [Coca-Cola Viet Nam](https://www.facebook.com/TCCCVN)
+- [Coca-Cola Viet Nam](https://www.facebook.com/TCCCVN){:target="_blank"}
 
-- [Pepsi Viet Nam](https://www.facebook.com/Pepsivietnam)
+- [Pepsi Viet Nam](https://www.facebook.com/Pepsivietnam){:target="_blank"}
 
-- [Fanta Viet Nam](https://www.facebook.com/fantavietnam)
+- [Fanta Viet Nam](https://www.facebook.com/fantavietnam){:target="_blank"}
 
 ## Research Scope
 
@@ -50,15 +50,15 @@ To conduct a comprehensive social media audit on the following brands:
 
 - NumPy, Pandas, Matplotlib, seaborn
 
-- [advertools](https://advertools.readthedocs.io/en/master/): online marketing productivity and analysis tools.
+- [advertools](https://advertools.readthedocs.io/en/master/){:target="_blank"}: online marketing productivity and analysis tools.
 
-- [Mercury](https://runmercury.com/): Python notebooks to website.
+- [Mercury](https://runmercury.com/){:target="_blank"}: Python notebooks to website.
 
 3. **Deployment**:
 
 - Hosting:...
 
-- docker-compose: follow [Mercury's instruction](https://runmercury.com/docs/docker-compose/)
+- docker-compose: follow [Mercury's instruction](https://runmercury.com/docs/docker-compose/){:target="_blank"}
 
 ## Repository Structure
 
