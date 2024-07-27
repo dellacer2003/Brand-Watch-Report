@@ -48,7 +48,7 @@ To conduct a comprehensive social media audit on the following brands:
 
 2. **Data analysis**:
 
-- NumPy, Pandas, Matplotlib, seaborn
+- NumPy, Pandas, Matplotlib, seaborn: basic data analytics libraries.
 
 - [advertools](https://advertools.readthedocs.io/en/master/): online marketing productivity and analysis tools.
 
@@ -56,7 +56,7 @@ To conduct a comprehensive social media audit on the following brands:
 
 3. **Deployment**:
 
-- Hosting:...
+- Hosting: Azure VM
 
 - docker-compose: follow [Mercury's instruction](https://runmercury.com/docs/docker-compose/)
 
