@@ -52,12 +52,12 @@ To conduct a comprehensive social media audit on the following brands:
 
 - [advertools](https://advertools.readthedocs.io/en/master/): online marketing productivity and analysis tools.
 
-- [Mercury](https://runmercury.com/): Python notebooks to website.
-
 3. **Deployment**:
 
 - Hosting: Azure VM
 
+- [Mercury](https://runmercury.com/): Python notebooks to website.
+  
 - docker-compose: follow [Mercury's instruction](https://runmercury.com/docs/docker-compose/)
 
 ## Repository Structure
